@@ -185,6 +185,11 @@
         <Sealed />
       </Entry.SortBy>
     </Entry>
+    <Entry DisplayName="Operators">
+      <Entry.Match>
+        <Kind Is="Operator" />
+      </Entry.Match>
+    </Entry>
     <Entry DisplayName="Indexers">
       <Entry.Match>
         <Kind Is="Indexer" />
